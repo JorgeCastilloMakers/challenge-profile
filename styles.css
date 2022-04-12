@@ -56,6 +56,11 @@
     
 }
 
+#add {
+    width: 20px;
+    margin-right: 5px;
+}
+
 .boton-2 {
     font-size: 16px;
     border: none;
@@ -66,3 +71,7 @@
     font-weight: 500;
 }
 
+#comment {
+    width: 20px;
+    margin-right: 5px;
+}
