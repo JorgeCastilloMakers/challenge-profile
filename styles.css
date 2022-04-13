@@ -1,5 +1,5 @@
 .container {
-    background-color: #ffedd2;
+     background: linear-gradient(to bottom right, rgb(171, 145, 212), #ffedd2, rgb(171, 145, 212));
     display: grid;
     place-items: center;
     width: 100%;
